@@ -1,0 +1,33 @@
+_repo: The-clammer_70399
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hopkins, William John
+    alias: Hopkins, William J.
+    birthdate: 1863
+    deathdate: 1926
+    gutenberg_agent_id: '32818'
+    url: http://www.gutenberg.org/2009/agents/32818
+description: ''
+gutenberg_issued: '2023-03-28'
+identifiers:
+  gutenberg: '70399'
+  lccn: 06008312
+language: en
+pgterms:marc904: https://archive.org/details/clammerx00hopkiala/mode/2up
+pgterms:marc905: 20221028040152hopkins
+pgterms:marc906: '1906'
+pgterms:marc907: US
+production_note: Steve Mattern, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited States :$bHoughton, Mifflin & Company, $c1906.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New England -- Social life and customs -- 20th century -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The clammer
+url: http://www.gutenberg.org/ebooks/70399
